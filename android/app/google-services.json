@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807492998265",
+    "project_id": "chat-app-d6e55",
+    "storage_bucket": "chat-app-d6e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807492998265:android:6c598f5e2e1bfa253a30a8",
+        "android_client_info": {
+          "package_name": "com.example.futura_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7iNS0O6IUtTwjKpZcbP5ORBj0EcfM2xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
